@@ -1,0 +1,14 @@
+List OF DATABASES
+Name | Owner | Encoding | COLLATE | Ctype | Access privileges
+-----------+----------+----------+-------------+-------------+-----------------------
+mydb | postgres | UTF8 | en_PH.UTF-8 | en_PH.UTF-8 |
+postgres | postgres | UTF8 | en_PH.UTF-8 | en_PH.UTF-8 |
+sample | postgres | UTF8 | en_PH.UTF-8 | en_PH.UTF-8 |
+sampledb | postgres | UTF8 | en_PH.UTF-8 | en_PH.UTF-8 |
+template0 | postgres | UTF8 | en_PH.UTF-8 | en_PH.UTF-8 | =c/postgres +
+| | | | | postgres=CTc/postgres
+template1 | postgres | UTF8 | en_PH.UTF-8 | en_PH.UTF-8 | =c/postgres +
+| | | | | postgres=CTc/postgres
+test | postgres | UTF8 | en_PH.UTF-8 | en_PH.UTF-8 |
+testdb | postgres | UTF8 | en_PH.UTF-8 | en_PH.UTF-8 |
+(8 ROWS)
